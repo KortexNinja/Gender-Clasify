@@ -1,0 +1,2 @@
+# Gender-Clasify
+Using Naive Bayes classifier and using @jcharis work and putting it all in one script just to make it friendlier. It ask for an excel sheet with the names and it produces a new one with the genders. This was useful to me at work where we have a bunch of data collected and they made me assign gender for every person based only on the name. I decided to make this, I hope this is useful to somebody else.
